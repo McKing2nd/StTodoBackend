@@ -1,0 +1,3 @@
+accessing
+rootUrl
+	^rootUrl ifNil: [ '' ]

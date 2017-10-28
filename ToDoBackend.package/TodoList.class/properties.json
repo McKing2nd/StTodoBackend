@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ToDoBackend",
+	"classinstvars" : [
+		"class"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"Default"
+	],
+	"instvars" : [
+		"items",
+		"idCounter"
+	],
+	"name" : "TodoList",
+	"type" : "normal"
+}
